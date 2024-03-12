@@ -5,6 +5,11 @@ import java.util.Arrays;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
+import java.util.ArrayList;
+import java.util.Arrays;
+
+import junit.framework.TestCase;
+
 
 /**
  * Unit test for simple App.
@@ -39,6 +44,7 @@ public class AppTest
       int[] array2 = {4, 5, 6};
       assertFalse(new App().search(array1, array2, 0, 3));
     }
+
     /**
      * Create the test case
      *
