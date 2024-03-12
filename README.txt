@@ -1,0 +1,2 @@
+//in this project the method takes two integer arrays and two integers, start and end.
+//the project iterates through both arrays with specified indexes and returns true if their sum is equal, false otherwise
